@@ -1,8 +1,7 @@
 ---
 layout: post
-bg: #e7dec7
-color: #5d4232
 title: Hello, World
+date: 2018-03-01 20:52:00 -0600
 ---
 
 This is my GitHub page. There are many like it, but this one is mine.
