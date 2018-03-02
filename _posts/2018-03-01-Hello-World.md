@@ -1,6 +1,7 @@
 ---
 layout: post
 bg: #e7dec7
+color: #5d4232
 title: Hello, World
 ---
 
