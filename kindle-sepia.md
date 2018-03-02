@@ -1,6 +1,6 @@
 ---
 layout: page
-background: #e7dec7
+bg: #e7dec7
 title: Kindle sepia color scheme
 permalink: /kindle-sepia/
 ---
