@@ -1,7 +1,6 @@
 # Setup
 name:                      Scott D. Weitzenhoffer              
 description:               'Data Scientist in Houston, TX'
-rss:                       atom.xml
 avatar:                    https://avatars0.githubusercontent.com/u/8345173
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -22,20 +21,8 @@ url:
 baseurl: ""
 
 # About/contact
-author:
-  email:                   scott.weitzenhoffer@gmail.com
-  github:                  sweitzen
-  linkedin:                sweitzen
-  googleplus:              +ScottWeitzenhoffer
-  stackoverflow:           users/9431931/scott-weitzenhoffer
-  goodreads:               sweitzen
-  instagram:               scott_weitzenhoffer
-  facebook:                scott.weitzenhoffer
-  twitter:                 weitzenhoffer
-  gravatar_md5:            56409c3b386476e44f7cdd7579f98be1
-
-# Includes an icon in the footer for each username you enter
-#footer-links:
+#author:
+#  name:                    Scott D. Weitzenhoffer
 #  email:                   scott.weitzenhoffer@gmail.com
 #  github:                  sweitzen
 #  linkedin:                sweitzen
@@ -46,6 +33,19 @@ author:
 #  facebook:                scott.weitzenhoffer
 #  twitter:                 weitzenhoffer
 #  gravatar_md5:            56409c3b386476e44f7cdd7579f98be1
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email:                   scott.weitzenhoffer@gmail.com
+  github:                  sweitzen
+  linkedin:                sweitzen
+  googleplus:              +ScottWeitzenhoffer
+  stackoverflow:           users/9431931/scott-weitzenhoffer
+  goodreads:               sweitzen
+  instagram:               scott_weitzenhoffer
+  facebook:                scott.weitzenhoffer
+  twitter:                 weitzenhoffer
+  gravatar_md5:            56409c3b386476e44f7cdd7579f98be1
 
 
 #
