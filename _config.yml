@@ -1,36 +1,9 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-# Name of your site (displayed in the header)
-name: Scott D. Weitzenhoffer
-
-# Short bio or description (displayed in the header)
-description: Data Scientist
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/8345173?s=400&u=8ae6d654ab25f1a0096b32ccd35b6b4a686b698b&v=4
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: scott.weitzenhoffer@gmail.com
-  facebook: scott.weitzenhoffer
-  flickr:
-  github: sweitzen
-  instagram: scott_weitzenhoffer
-  linkedin: sweitzen
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: weitzenhoffer
-  stackoverflow: users/9431931/scott-weitzenhoffer
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: +ScottWeitzenhoffer
-
+# Setup
+title:                     Scott D. Weitzenhoffer
+tagline:                   'Data Scientist in Houston, TX'
+description:               'Never stop learning'
+rss:                       atom.xml
+avatar:                    https://avatars0.githubusercontent.com/u/8345173
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -48,6 +21,21 @@ url:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  name:                    Scott D. Weitzenhoffer
+  email:                   scott.weitzenhoffer@gmail.com
+  github:                  sweitzen
+  linkedin:                sweitzen
+  googleplus:              +ScottWeitzenhoffer
+  stackoverflow:           users/9431931/scott-weitzenhoffer
+  goodreads:               sweitzen
+  instagram:               scott_weitzenhoffer
+  facebook:                scott.weitzenhoffer
+  twitter:                 weitzenhoffer
+  gravatar_md5:            56409c3b386476e44f7cdd7579f98be1
+
 
 #
 # !! You don't need to change any of the configuration flags below !!
