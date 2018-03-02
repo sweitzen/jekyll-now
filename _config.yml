@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Scott. D. Weitzenhoffer
+name: Scott D. Weitzenhoffer
 
 # Short bio or description (displayed in the header)
 description: Data Scientist
@@ -27,7 +27,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: weitzenhoffer
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/9431931/scott-weitzenhoffer
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: +ScottWeitzenhoffer
 
