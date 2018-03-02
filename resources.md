@@ -6,8 +6,8 @@ permalink: /resources/
 
 A collection of useful resources for learning about data science - contains only classes and books I have completed:
 
-* [Coursera](https://www.coursera.org), by Johns Hopkins University  
-  - [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)   
+* [Coursera](https://www.coursera.org)  
+  - [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science), by Johns Hopkins University  
     A 10-course sequence building data science skill with R programming.
   - [Machine Learning](https://www.coursera.org/learn/machine-learning), by Andrew Ng and Stanford University  
     An 11-week class covering machine learning algorithms using [GNU Octave](https://www.gnu.org/software/octave), an
