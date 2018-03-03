@@ -29,6 +29,7 @@ baseurl: ""
 footer-links:
   email:                   scott.weitzenhoffer@gmail.com
   github:                  sweitzen
+  docker:                  sdweitzen
   linkedin:                sweitzen
   googleplus:              +ScottWeitzenhoffer
   stackoverflow:           users/9431931/scott-weitzenhoffer
