@@ -1,7 +1,5 @@
 ---
 layout: post
-bg: #e7dec7
-color: #e7dec7
 title: Hello, World
 date: 2018-03-01 20:52:00 -0600
 ---
