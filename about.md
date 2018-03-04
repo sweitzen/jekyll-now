@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[scott.weitzenhoffer@gmail.com](mailto:scott.weitzenhoffer@gmail.com)
+[sdw6@cornell.edu](mailto:sdw6@cornell.edu)
