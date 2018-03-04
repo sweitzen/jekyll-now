@@ -21,16 +21,17 @@ url:                       https://sweitzen.github.io
 baseurl:                   https://sweitzen.github.io
 
 # About/contact
-#author:
-#  name:                    Scott D. Weitzenhoffer
-#  gravatar_md5:            56409c3b386476e44f7cdd7579f98be1
+author:
+  name:                    Scott D. Weitzenhoffer
+  email:                   sdw6@cornell.edu
+  gravatar_md5:            56409c3b386476e44f7cdd7579f98be1
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   bitbucket:               sdweitzen
   data_world:              sweitzen
   docker:                  sdweitzen
-  email:                   scott.weitzenhoffer@gmail.com
+  email:                   sdw6@cornell.edu
   facebook:                scott.weitzenhoffer
   github:                  sweitzen
   goodreads:               sweitzen
