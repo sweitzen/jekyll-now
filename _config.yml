@@ -27,16 +27,18 @@ baseurl:                   https://sweitzen.github.io
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email:                   scott.weitzenhoffer@gmail.com
-  github:                  sweitzen
-  docker:                  sdweitzen
+  bitbucket:               sdweitzen
   data_world:              sweitzen
-  linkedin:                sweitzen
-  googleplus:              +ScottWeitzenhoffer
-  stackoverflow:           users/9431931/scott-weitzenhoffer
-  goodreads:               sweitzen
-  instagram:               scott_weitzenhoffer
+  docker:                  sdweitzen
+  email:                   scott.weitzenhoffer@gmail.com
   facebook:                scott.weitzenhoffer
+  github:                  sweitzen
+  goodreads:               sweitzen
+  googleplus:              +ScottWeitzenhoffer
+  instagram:               scott_weitzenhoffer
+  linkedin:                sweitzen
+  rss:                     atom.xml
+  stackoverflow:           users/9431931/scott-weitzenhoffer
   twitter:                 weitzenhoffer
 
 #
